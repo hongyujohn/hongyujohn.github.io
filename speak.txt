@@ -1,0 +1,2 @@
+https://ssl.microsofttranslator.com/static/226010/img/Play_Unsel.png
+<img tabindex="10" title="ÀÊ¶Á" class="Clickable Icon Assoc" id="InputSpeak" style="display: inline;" alt="ÀÊ¶Á" src="https://ssl.microsofttranslator.com/static/226010/img/Play_Unsel.png">
